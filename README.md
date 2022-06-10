@@ -14,28 +14,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** :¿CUÁNTO SABES SOBRE "FRIENDS"? es un juego de preguntas y respuestas sobre la famosa serie de televisión "FRIENDS". En él, irán apareciendo preguntas con 4 posibles respuestas, de las cuales tendrás que elegir la correcta . Por cada respuesta correcta, se sumarám 10 puntos al marcador. Cuantos más puntos tengas, ¡más demostrarás que sabes sobre "FRIENDS"!
 
 **Estilo/género:**  Juego de preguntas y respuestas
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 175kB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+**Fecha** : 09/06/2022
 
 # 2. Memoria del proyecto 
 
