@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 **Titulo** : ¿CUÁNTO SABES SOBRE "FRIENDS"?
-**Web:**   (url github.io)
+**Web:**   Laurarro.github.io
 
 **Autor:**  Laura  Rodríguez Ariza
 **Resumen** :¿CUÁNTO SABES SOBRE "FRIENDS"? es un juego de preguntas y respuestas sobre la famosa serie de televisión "FRIENDS". En él, irán apareciendo preguntas con 4 posibles respuestas, de las cuales tendrás que elegir la correcta . Por cada respuesta correcta, se sumarám 10 puntos al marcador. Cuantos más puntos tengas, ¡más demostrarás que sabes sobre "FRIENDS"!
@@ -37,18 +37,6 @@ Al iniciar el videojuego, lo primero que aparece es la introducción, con una im
 - Personajes: Al pulsar este botón, aparece la escena de personajes. En ella, se puede ver el nombre, la imagen y una breve presentación de cada personaje. Con unos botones de flechas, se va pasando de un personaje a otro, para adelante o para atrás.
 
 - Créditos: Al pulsar este botón, aparece la escena de créditos. 
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
 
 # 3. Metodología
 
