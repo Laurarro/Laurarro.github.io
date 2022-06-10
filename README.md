@@ -1,6 +1,6 @@
 # cmi22
 
-## (Nombre del proyecto)
+## ¿CUÁNTO SABES SOBRE "FRIENDS"?
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Web:**   (url github.io)
 
 **Autor:**  Laura  Rodríguez Ariza
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** :¿CUÁNTO SABES SOBRE "FRIENDS"? es un juego de preguntas y respuestas sobre la famosa serie de televisión "FRIENDS". En él, irán apareciendo preguntas con 4 posibles respuestas, de las cuales tendrás que elegir la correcta . Por cada respuesta correcta, se sumarám 10 puntos al marcador. Cuantos más puntos tengas, ¡más demostrarás que sabes sobre "FRIENDS"!
 
 **Estilo/género:**  Juego de preguntas y respuestas
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
@@ -40,12 +40,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Al iniciar el videojuego, lo primero que aparece es la introducción, con una imagen de los personajes de la serie que se va poniendo borrosa mientras va apareciendo  el título del juego, y donde hay un botón de "saltar intro" para no tener que esperar y aparecer de inmediato en la escena del menú. Como bien acabo de decir, tras la introducción viene el menú, donde se encuentran los principales botones del juego con los que se van a interactuar.
 
+- Símbolo de configuración: Al pulsar este botón, te aparece la escena de configuración. En ella, tienes la opción de elegir entre 2 canciones para escuchar, subir o bajar el volumen de la música, ver un vídeo tutorial, y subir o bajar el volumen de dicho vídeo.
 
+- Empezar: Es el botón principal. Al pulsar, comienza el juego. Van apareciendo las preguntas con sus respectivas respuestas. Si eliges la correcta, al pulsar el  botón, se pondrá de color verde y se sumarán 10 puntos al marcador; si eliges la incorrecta, se pondrá de color rojo y no se sumará ningún punto. Tras contestar cada pregunta, aparecera una escena con una imagen relacionada con la respuesta correcta y una breve explicación, y  tras unos segundo, la opción de pasar a la siguiente pregunta. Al final del juego, aparece la puntuación obtenida, y las opciones de volver al menu o volver a empezar.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+- Personajes: Al pulsar este botón, aparece la escena de personajes. En ella, se puede ver el nombre, la imagen y una breve presentación de cada personaje. Con unos botones de flechas, se va pasando de un personaje a otro, para adelante o para atrás.
 
-
+- Créditos: Al pulsar este botón, aparece la escena de créditos. 
 
 ### 2.2. Esquema de navegación 
 
