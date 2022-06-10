@@ -72,21 +72,16 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- "FRIENDS" (serie  de comedia de situación): inspiración principal para el desarrollo del juego.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
-
+Cuando se propuso este trabajo, lo primero que me vino a la cabeza fue hacer un juego de preguntas sobre alguna serie. Hacía poco me había terminado la serie "FRIENDS", y me lo había pasado tan bien viéndola, que pensé que iba a disfrutar mucho ideando el juego y buscando información sobre ellos, así que me decanté por esta idea desde el principio.
 
 **Publico / audiencia**
 
-- Orientado a 
-
+- Orientado a cualquier persona que haya visto "FRIENDS".
 
 
 
@@ -105,15 +100,12 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
+A priori no encuentro problemas significativos, aunque evidentemente no estará todo perfecto ya que no soy una profesional ni mucho menos.
+El único defecto a añadir quizás es que me hubiera gustado añadir más preguntas para que fuera un juego más complet, aún así estoy muy contenta por como me ha quedado a nivel visual y de diseño, ya que le he dado mucha importancia a los pequeños detalles, y aunque a nivel programación sea más  simple, funciona.
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+He de decir, que esta asignatura y, concretamente, este proyecto, me ha sorprendido mucho y para bien. Empecé un tanto desmotivada y preocupada ya que el mundo de la informática y la programación es un mundillo que nunca me ha gustado y por consecuente, nunca se me ha dado bien. Pero con el planteamiento de este trabajo me empecé a ilusionar ya que me pareció algo guay y con lo que también íbamos a poder aplicar nuestra creatividad y nuestro arte. En conclusión, he acabado disfrutando mucho haciendo mi videojuego y estoy muy satisfecha y orgullosa de haberlo hecho y de como me ha quedado.
 
 
 
@@ -121,25 +113,15 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Canción "I´ll be there for you" , y canción "Smelly cat"versión instrumental.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
+-   Photoshop
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
